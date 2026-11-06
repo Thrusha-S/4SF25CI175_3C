@@ -29,4 +29,4 @@ Conclusion
 The project demonstrates data preprocessing, transformation, insight generation, and visualization techniques on an air quality dataset.**
 
 Author:
-Thrusha
+Thrusha S
